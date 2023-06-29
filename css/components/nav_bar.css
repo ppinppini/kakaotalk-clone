@@ -33,8 +33,9 @@
     bottom:20px;
 }
 .nav__ellipsis__notification{
-    width:30px;
-    height:30px;
+    background-color: tomato;
+    width:7px;
+    height:7px;
     border-radius: 50%;
     display:flex;
     justify-content: center;
@@ -42,7 +43,7 @@
     color: white;
     font-weight: 600;
     position: absolute;
-    left: 20px;
+    left: 30px;
     bottom:20px;
 
 }
